@@ -72,8 +72,7 @@
     "semantic-release": "^18.0.1"
   },
   "peerDependencies": {
-    "react": ">=16",
-    "typescript": ">=4"
+    "react": ">=16"
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
